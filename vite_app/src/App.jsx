@@ -129,7 +129,37 @@ function App() {
     image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1753956973/AJfQ9KSbCpbzuSp3I8YDScIp8fR0euLCk4HS7zDa8uQ_smSCOiFiVl8gwSBIYXe1fyppHwrySPZRtBQ8tcAL9mhN80OOclQQ6UKo04cDru0Z0lEXaDTRNopJBEtpt3sBkQ0qaypuJ2erxGa1PgvGd2TRJMOyuV_XIwDn92--z81jmBY8BkmyJQ_lkez0h.png',
     launchLink: 'https://tattoos-dreamers-studio.onrender.com/',
     codeLink: 'https://github.com/kiranchaudhary18/tattoos_website',
-    videoUrl: 'https://www.youtube.com/embed/your_video_id_here?autoplay=1&mute=1'
+    // videoUrl: 'https://www.youtube.com/embed/your_video_id_here?autoplay=1&mute=1'
+  },
+  {
+    title: 'MediConnect',
+    description: 'Developed a role-based healthcare web application featuring separate dashboards for Doctors, Patients, and Students. Included real-time chat, appointment management, analytics, and an AI assistant to enhance user interaction and learning experience',
+    tech: ['React', 'node.js','Express.js', 'MongoDB'],
+    color: 'from-blue-500 to-cyan-500',
+    image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1764044452/Screenshot_39_vf1gar.png',
+    launchLink: 'https://mediconnect-in.onrender.com/',
+    codeLink: 'https://github.com/kiranchaudhary18/MediConnect',
+    // videoUrl: 'https://www.youtube.com/embed/your_video_id_here?autoplay=1&mute=1'
+  },
+  {
+    title: 'Code Review & Bug Finder',
+    description: 'AI-powered Code Review tool that detects bugs, security issues, and optimizes your code — with refactoring and full review history built using the MERN stack + Groq API.',
+    tech: ['React.js', 'node.js','Express.js', 'MongoDB'],
+    color: 'from-blue-500 to-cyan-500',
+    image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1764045302/Screenshot_40_cxrixg.png',
+    launchLink: 'https://code-review-and-bug-finder-in-rx4a.onrender.com',
+    codeLink: 'https://github.com/kiranchaudhary18/code_review_and_bug_finder',
+    // videoUrl: 'https://www.youtube.com/embed/your_video_id_here?autoplay=1&mute=1'
+  },
+  {
+    title: 'Habit-Tracker',
+    description: 'A React app to search meals, Harry Potter characters, cocktails, and bank info using multiple public APIs — fast and dynamic UI.',
+    tech: ['React', 'supabase', 'Rest API'],
+    color: 'from-blue-500 to-cyan-500',
+    image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1764045616/Screenshot_41_zmwj4f.png',
+    launchLink: 'https://ai-habit-tracker-45qa.onrender.com',
+    codeLink: 'https://github.com/kiranchaudhary18/Habit_Tracker',
+    // videoUrl: 'https://www.youtube.com/embed/your_video_id_here?autoplay=1&mute=1'
   },
   {
     title: 'React API',
@@ -152,7 +182,7 @@ function App() {
     videoUrl: 'https://www.loom.com/share/fc6fc2a877014be49e792160ea5d464f?sid=f88d8d86-a88e-41da-b0b6-42cd7169f164'
   },
   {
-    title: 'Youtube Clone',
+    title: 'YouPlayX',
     description: 'A YouTube clone in React with real-time video search and playback using the YouTube API — clean and responsive UI.',
     tech: ['React', 'Express.js', 'REST API'],
     color: 'from-green-500 to-teal-500',
@@ -221,16 +251,16 @@ function App() {
     codeLink: null, // Figma projects might not have a code link
     
   },
-  {
-    title: "Instagram UI",
-    description: "A high-fidelity prototype of the Instagram interface, designed in Figma to replicate its core features and user flow.",
-    tech: ["Figma"],
-    color: 'from-pink-500 to-orange-400',
-    image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1753955145/images_q_tbn_ANd9GcS3owPyFPazFIA7KN1uQSOgUZSQz_hnh8fazejWGF9JR41yCICXxr5prkrwdTGB_ytfrwv.png',
-    launchLink: 'https://www.figma.com/proto/CsXrFCbuFJ80bmxZaP97ZQ/Untitled?page-id=&node-id=29-160&viewport=296%2C387%2C0.15&t=rczgVxaKEKCzOPAk-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=29%3A136',
-    codeLink: null, // Figma projects might not have a code link
+  // {
+  //   title: "Instagram UI",
+  //   description: "A high-fidelity prototype of the Instagram interface, designed in Figma to replicate its core features and user flow.",
+  //   tech: ["Figma"],
+  //   color: 'from-pink-500 to-orange-400',
+  //   image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1753955145/images_q_tbn_ANd9GcS3owPyFPazFIA7KN1uQSOgUZSQz_hnh8fazejWGF9JR41yCICXxr5prkrwdTGB_ytfrwv.png',
+  //   launchLink: 'https://www.figma.com/proto/CsXrFCbuFJ80bmxZaP97ZQ/Untitled?page-id=&node-id=29-160&viewport=296%2C387%2C0.15&t=rczgVxaKEKCzOPAk-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=29%3A136',
+  //   codeLink: null, // Figma projects might not have a code link
     
-  },
+  // },
 ];
 
 
@@ -432,7 +462,7 @@ function App() {
               </div>
             </div>
             <a
-  href="https://drive.google.com/file/d/1eB1AMwXOwkYaf4X4j6N57_W1oXQ4XGeF/view?usp=sharing"
+  href="https://drive.google.com/file/d/10aZjm62xzZVI30kfpOEKRItXfPemPTTa/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
 >
