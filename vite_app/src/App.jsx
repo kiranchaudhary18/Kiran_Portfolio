@@ -141,6 +141,29 @@ function App() {
     codeLink: 'https://github.com/kiranchaudhary18/MediConnect',
     // videoUrl: 'https://www.youtube.com/embed/your_video_id_here?autoplay=1&mute=1'
   },
+
+  {
+    title: 'Ecommrce',
+    description: 'A modern full-stack fashion e-commerce application featuring dynamic product filtering, responsive layouts, consistent image handling, and a complete product detail and cart flow.',
+    tech: ['React', 'node.js','Express.js', 'MongoDB'],
+    color: 'from-blue-500 to-cyan-500',
+    image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1764044452/Screenshot_39_vf1gar.png',
+    launchLink: 'https://forever-in.onrender.com/',
+    codeLink: 'https://github.com/kiranchaudhary18/Ecommerce-app',
+    // videoUrl: 'https://www.youtube.com/embed/your_video_id_here?autoplay=1&mute=1'
+  },
+
+  {
+    title: 'GearGuard  -  Hackathon Poject (OdooXAdani) ',
+    description: 'Built an Odoo-inspired Maintenance ERP to manage assets and preventive/corrective maintenance using role-based workflows, Kanban boards, and calendar scheduling.',
+    tech: ['React', 'node.js','Express.js', 'MongoDB'],
+    color: 'from-blue-500 to-cyan-500',
+    image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1764044452/Screenshot_39_vf1gar.png',
+    launchLink: 'https://gearguard-qpbj.onrender.com/login',
+    codeLink: 'https://github.com/kiranchaudhary18/OdooXadani',
+    // videoUrl: 'https://www.youtube.com/embed/your_video_id_here?autoplay=1&mute=1'
+  },
+
   {
     title: 'Code Review & Bug Finder',
     description: 'AI-powered Code Review tool that detects bugs, security issues, and optimizes your code — with refactoring and full review history built using the MERN stack + Groq API.',
@@ -221,26 +244,26 @@ function App() {
     codeLink: 'https://github.com/kiranchaudhary18/digigold',
     videoUrl: 'https://www.youtube.com/embed/your_video_id_here?autoplay=1&mute=1'
   },
-  {
-    title: 'Gmail Clone',
-    description: 'A replica of the Gmail interface built using only HTML and CSS, closely matching the original layout and design.',
-    tech: ['HTML', 'CSS'],
-    color: 'from-red-500 to-gray-400',
-    image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1753954739/gmail_cijjqo.png',
-    launchLink: 'https://magenta-capybara-7afa3a.netlify.app/',
-    codeLink: 'https://github.com/kiranchaudhary18/Gmail-Clone',
+  // {
+  //   title: 'Gmail Clone',
+  //   description: 'A replica of the Gmail interface built using only HTML and CSS, closely matching the original layout and design.',
+  //   tech: ['HTML', 'CSS'],
+  //   color: 'from-red-500 to-gray-400',
+  //   image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1753954739/gmail_cijjqo.png',
+  //   launchLink: 'https://magenta-capybara-7afa3a.netlify.app/',
+  //   codeLink: 'https://github.com/kiranchaudhary18/Gmail-Clone',
     
-  },
-  {
-    title: 'Discord Clone',
-    description: "Discord's UI redesigned with HTML and CSS, replicating its look and feel using clean, responsive code.",
-    tech: ['HTML', 'CSS'],
-    color: 'from-indigo-500 to-purple-600',
-    image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1753942351/discord_kka5l9_2_vykzpf.png',
-    launchLink: 'https://gilded-sfogliatella-7649cf.netlify.app/',
-    codeLink: 'https://github.com/kiranchaudhary18/Discord-Clone',
+  // },
+  // {
+  //   title: 'Discord Clone',
+  //   description: "Discord's UI redesigned with HTML and CSS, replicating its look and feel using clean, responsive code.",
+  //   tech: ['HTML', 'CSS'],
+  //   color: 'from-indigo-500 to-purple-600',
+  //   image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1753942351/discord_kka5l9_2_vykzpf.png',
+  //   launchLink: 'https://gilded-sfogliatella-7649cf.netlify.app/',
+  //   codeLink: 'https://github.com/kiranchaudhary18/Discord-Clone',
    
-  },
+  // },
   {
     title: "Codinggita",
     description: "A UI/UX design prototype for a food delivery application, created with Figma to ensure a seamless user experience.",
@@ -462,7 +485,7 @@ function App() {
               </div>
             </div>
             <a
-  href="https://drive.google.com/file/d/10aZjm62xzZVI30kfpOEKRItXfPemPTTa/view?usp=sharing"
+  href="https://drive.google.com/file/d/1CPyIkqdZCBqrM33VJAOdI8GIz5SS-U65/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
 >
